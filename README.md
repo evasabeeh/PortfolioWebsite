@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://github.com/evasabeeh/evasabeeh.github.io/assets/97843501/7628db1c-7e91-40b5-bce6-4215bc56d9ab" alt="View" width="500" height="250"/> 
+  <img src="https://github.com/evasabeeh/portfoliowebsite/assets/97843501/7628db1c-7e91-40b5-bce6-4215bc56d9ab" alt="View" width="500" height="250"/> 
   <h3 align="center">Personal Portfolio Website</h3>
 
   <p align="center">
@@ -29,7 +29,7 @@
 ## Insights
 
 - Large Screen View
-![screencapture-evasabeeh-netlify-app-2024-04-10-23_57_23](https://github.com/evasabeeh/evasabeeh.github.io/assets/97843501/ff9cb7d2-6cee-4f74-af8d-fa1dcad82cc1)
+![screencapture-evasabeeh-netlify-app-2024-04-10-23_57_23](https://github.com/evasabeeh/portfoliowebsite/assets/97843501/ff9cb7d2-6cee-4f74-af8d-fa1dcad82cc1)
 
 - Mobile Screen View
-![Screenshot_20240410-234706_Chrome](https://github.com/evasabeeh/evasabeeh.github.io/assets/97843501/07b6a8ac-7688-4033-b6ff-a96d59e6c72e)
+![Screenshot_20240410-234706_Chrome](https://github.com/evasabeeh/portfoliowebsite/assets/97843501/07b6a8ac-7688-4033-b6ff-a96d59e6c72e)
