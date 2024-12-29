@@ -4,7 +4,7 @@
   <h3 align="center">Personal Portfolio Website</h3>
 
   <p align="center">
-     <em>This project solidified my fundamentals in HTML, CSS, and JavaScript. I also explored some popular JS libraries, mainly JQuery, to add interactivity and polish. Check it out here: https://evasabeeh.github.io/</em>
+     <em>This project solidified my fundamentals in HTML, CSS, and JavaScript. I also explored some popular JS libraries, mainly JQuery, to add interactivity and polish.</em>
     <br/>
     <br/>
   </p>
